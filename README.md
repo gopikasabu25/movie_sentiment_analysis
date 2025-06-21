@@ -16,7 +16,7 @@ This project uses the open-source dataset from **Kaggle**:
 
 **📂 [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)**
 - Creator: [Rounak Banik](https://www.kaggle.com/rounakbanik)
-- License: MIT
+- License: MIT (https://opensource.org/licenses/MIT) *(For the dataset only)*  
 - Description: A large dataset of metadata for over 45,000 movies from TMDB, including user ratings and reviews.
 - ⚠️ Note: The dataset itself is **not included** in this repository due to licensing — please download it manually from the link above.
 
@@ -28,7 +28,6 @@ This project uses the open-source dataset from **Kaggle**:
 
 ## 📄 License
 
-This project is open source under the [MIT License](LICENSE).
-The dataset used is also under the MIT License by Kaggle user [rounakbanik](https://www.kaggle.com/rounakbanik).
+The dataset used in this project is under the MIT License by Kaggle user [rounakbanik](https://www.kaggle.com/rounakbanik).
 
 

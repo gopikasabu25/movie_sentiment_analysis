@@ -10,6 +10,11 @@ This project builds a **Sentiment Analysis** system for movie reviews using a **
 | `sentiment_model.pkl`             | Pre-trained logistic regression model.         |
 | `tfidf_vectorizer.pkl`            | Pre-trained TF-IDF vectorizer used to convert text into numerical features. |
 
+
+## For Live Demo
+
+Try the sentiment analyzer here: 
+     https://movie-sentiment-analyzer-wixf.onrender.com/
 ## 📊 Dataset
 
 This project uses the open-source dataset from **Kaggle**:

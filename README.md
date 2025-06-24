@@ -20,11 +20,15 @@ Try the sentiment analyzer here:
 
 Here is a screenshot showing the model predicting the sentiment of a movie review:
 
-     ![Screenshot](https://github.com/gopikasabu25/movie_sentiment_analysis/blob/main/sample%20review.png)
+Here is a screenshot showing the model predicting the sentiment of a movie review:
 
-      ![Screenshot](https://github.com/gopikasabu25/movie_sentiment_analysis/blob/main/positive%20review%20sample.png)
+![Screenshot](https://github.com/gopikasabu25/movie_sentiment_analysis/blob/main/sample%20review.png?raw=true)
 
-      ![Screenshot](https://github.com/gopikasabu25/movie_sentiment_analysis/blob/main/neagtive%20review%20sample.png)
+![Screenshot](https://github.com/gopikasabu25/movie_sentiment_analysis/blob/main/positive%20review%20sample.png?raw=true)
+
+![Screenshot](https://github.com/gopikasabu25/movie_sentiment_analysis/blob/main/neagtive%20review%20sample.png?raw=true)
+
+
 ## 📊 Dataset
 
 This project uses the open-source dataset from **Kaggle**:

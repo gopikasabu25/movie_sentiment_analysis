@@ -15,6 +15,16 @@ This project builds a **Sentiment Analysis** system for movie reviews using a **
 
 Try the sentiment analyzer here: 
      https://movie-sentiment-analyzer-wixf.onrender.com/
+
+## Sample Output :
+
+Here is a screenshot showing the model predicting the sentiment of a movie review:
+
+     ![Screenshot](sample.png)
+
+      ![Screenshot](positive review sample.png)
+
+      ![Screenshot](negative review sample.png)
 ## 📊 Dataset
 
 This project uses the open-source dataset from **Kaggle**:

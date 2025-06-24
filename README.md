@@ -22,7 +22,7 @@ Here is a screenshot showing the model predicting the sentiment of a movie revie
 
 ![Screenshot](https://github.com/gopikasabu25/movie_sentiment_analysis/blob/main/sample%20review.png?raw=true)
 
-![Screenshot](https://github.com/gopikasabu25/movie_sentiment_analysis/blob/main/positive%20review%20sample.png?raw=true)
+![Screenshot](https://github.com/gopikasabu25/movie_sentiment_analysis/blob/main/postive%20review%20sample.png?raw=true)
 
 ![Screenshot](https://github.com/gopikasabu25/movie_sentiment_analysis/blob/main/neagtive%20review%20sample.png?raw=true)
 

@@ -20,7 +20,7 @@ Try the sentiment analyzer here:
 
 Here is a screenshot showing the model predicting the sentiment of a movie review:
 
-     ![Screenshot](sample.png)
+     ![Screenshot](sample review.png)
 
       ![Screenshot](positive review sample.png)
 
